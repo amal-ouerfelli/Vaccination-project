@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://naser:Naser12345@cluster0.6okez.mongodb.net/test",
+    "jwtSecret": "mysecrettoken"
+}
